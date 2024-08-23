@@ -27,7 +27,7 @@ author:
   bio              : "University of Arizona\nApplied Mathematics\nPhD Student"
   location         : "Tucson, Arizona"
   employer         : "University of Arizona"
-  uri              : # URL
+  url              : # "chanl.arizona.edu" # URL
   email            : "aaronml@arizona.edu" 
 
   # Academic websites
@@ -118,7 +118,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
@@ -211,16 +211,16 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
+  Teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  Publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  Portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  Talks:
     output: true
     permalink: /:collection/:path/
 
@@ -248,7 +248,7 @@ defaults:
   # _teaching
   - scope:
       path: ""
-      type: teaching
+      type: Teaching
     values:
       layout: single
       author_profile: true
@@ -257,7 +257,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: Publications
     values:
       layout: single
       author_profile: true
@@ -266,7 +266,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: Portfolio
     values:
       layout: single
       author_profile: true
@@ -275,7 +275,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: talks
+      type: Talks
     values:
       layout: talk
       author_profile: true
