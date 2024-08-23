@@ -24,7 +24,7 @@ Work experience
     * Implements new thermodynamic mechanism in open-source library to model vibrational energy states
     * Simulates energy transfer and atomic state transitions through computational fluid dynamics
 
-* August 2021 – December 2022: Graduate Teaching Assistant
+* August 2021 – December 2022: Graduate teaching Assistant
   * University of Arizona (Tucson, AZ)
     * Taught introductory class about understanding data and data exploration
 
@@ -89,8 +89,8 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
+teaching
 ======
-  <ul>{% for post in site.Teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
