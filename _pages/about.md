@@ -16,7 +16,7 @@ Aaron’s research focuses on modeling the thermochemical non-equilibrium behavi
 
 Prior to attending the University of Arizona, Aaron studied Applied and Computational Mathematics with an emphasis in physics at Brigham Young University. Aaron received his M.S. in Applied Mathematics from the University of Arizona.
 
-To learn more about CHANL and the work done there, visit <a href="chanl.arizona.edu">chanl.arizona.edu</a>.
+To learn more about CHANL and the work done there, visit <a href="https://chanl.arizona.edu">chanl.arizona.edu</a>.
 
 <p style="text-align:center;"> 
 <img src='/images/CHANL.png' width="110" 
