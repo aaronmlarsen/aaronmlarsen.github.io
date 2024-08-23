@@ -83,9 +83,9 @@ Languages
 * English (Native Speaker)
 * Spanish (Fluency)
 
-Talks
+talks
 ======
-  <ul>{% for post in site.Talks reversed %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   

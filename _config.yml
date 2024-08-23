@@ -220,7 +220,7 @@ collections:
   Portfolio:
     output: true
     permalink: /:collection/:path/
-  Talks:
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -275,7 +275,7 @@ defaults:
   # _talks
   - scope:
       path: ""
-      type: Talks
+      type: talks
     values:
       layout: talk
       author_profile: true
