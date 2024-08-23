@@ -12,5 +12,5 @@ Introduction
 ---
 There will be information here.
 
-![CHANL logo](https://aaronmlarsen.github.io/files/CHANL.png "CHANL")
+![CHANL logo](https://aaronmlarsen.github.io/images/CHANL.png "CHANL")
 
